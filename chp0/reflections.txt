@@ -1,0 +1,11 @@
+Reflection questions 
+
+1. Commit saves changes giving you the option
+   to to your pject at different stages. 
+
+2. A push uploads commits to GitHub while Pull
+   downloads changes from Github.
+
+3. Branches let to test features indepedenelty 
+   without altering main. They're safer as once
+   the branch as been tested you can merge to main
